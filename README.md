@@ -6,7 +6,7 @@
 
 🌱 Currently, I’m :
 - 🌱 Working on a [TopBook](https://github.com/clevercattv/TopBooks) for my profile!
-- 🔭 Improve my knowledge and skills 🤣
+- 🔭 Improve my knowledge and skills!
 
 And :
 - 👯 I’m looking to collaborate with other developers
@@ -29,9 +29,11 @@ And :
 <img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br>
+<br>
 
 ---
 
+<br>
 <br>
 
 <details style="display: block">
