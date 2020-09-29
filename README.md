@@ -33,9 +33,6 @@ And :
 
 ---
 
-<br>
-<br>
-
 <details style="display: block">
   <summary>Github Stats</summary>
 
