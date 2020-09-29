@@ -36,7 +36,7 @@ And :
 <details style="display: block">
   <summary>Github Stats</summary>
 
-  <img align="left" alt="Maksym Vitkovskyi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=clevercattv&show_icons=true&hide_border=true&theme=vue-dark" />
+  <img align="left" alt="Maksym Vitkovskyi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=clevercattv&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
