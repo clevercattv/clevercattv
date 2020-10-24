@@ -4,9 +4,7 @@
 
 ## I'm a newly Java Software Engineer!
 
-🌱 Currently, I’m :
-- 🌱 Working on a [TopBook](https://github.com/clevercattv/TopBooks) for my profile!
-- 🔭 Improve my knowledge and skills!
+🔭 Currently, I’m Improve my knowledge and skills!
 
 And :
 - 👯 I’m looking to collaborate with other developers
