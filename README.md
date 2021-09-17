@@ -4,15 +4,10 @@
 
 ## I'm a newly Java Software Engineer!
 
-🔭 Currently, I’m Improve my knowledge and skills!
-
 And :
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Find work
+- 👯 I’m working with awesome people!
+- 🥅 2021 Goals: Study hard!
 - ⚡ Some facts about me: I love listening to audiobooks and fishing
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/sc8st57v528hkjrzwjbg13dxq)
 
 ### Languages and Tools:
 
