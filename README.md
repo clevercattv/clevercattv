@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/website?label=LINKED%20IN&style=for-the-badge&logo=linkedin&url=https://linkedin.com/)](https://www.linkedin.com/in/maxim-vitkovskyi/)
 
-## I'm a newly Java Software Engineer!
+## I'm a Java Software Engineer!
 
 And :
 - 👯 I’m working with awesome people!
